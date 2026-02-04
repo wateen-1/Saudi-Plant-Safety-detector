@@ -1,0 +1,6 @@
+train: /kaggle/input/saudi-plant-detector/train
+val: /kaggle/input/saudi-plant-detector/valid/images
+
+nc: 6
+names: ['Bitter gourd-Al Hanzal', 'Calotropis Procera-Al Hashar', 'Caralluma Acutangula-Al ghalthi', 'Nerium oleander-Al dafla', 'Normal Plant-Safe', 'Peganum harmala-Al harmala']
+
